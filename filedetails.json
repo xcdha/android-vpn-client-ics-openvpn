@@ -3,8 +3,8 @@
   {"id":0,"file":"
 client
 dev tun
-proto tcp
-remote 219.100.37.137 443
+proto udp
+remote 1.240.83.122 1713
 cipher AES-128-CBC
 auth SHA1
 resolv-retry infinite
