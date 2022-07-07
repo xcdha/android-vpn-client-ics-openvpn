@@ -101,7 +101,7 @@ M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 client
 dev tun
 proto tcp
-remote 126.120.65.253 1209
+remote 59.138.110.211 1928
 cipher AES-128-CBC
 auth SHA1
 resolv-retry infinite
@@ -193,5 +193,6 @@ va8q4QKBgQCEhLVeUfdwKvkZ94g/GFz731Z2hrdVhgMZaU/u6t0V95+YezPNCQZB
 wmE9Mmlbq1emDeROivjCfoGhR3kZXW1pTKlLh6ZMUQUOpptdXva8XxfoqQwa3enA
 M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 -----END RSA PRIVATE KEY-----
-</key>"}]
+</key>
+"}]
 }
