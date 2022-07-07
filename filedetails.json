@@ -1,6 +1,7 @@
 {
 "ovpn_file":[
   {"id":0,"file":"
+client
 dev tun
 proto tcp
 remote 219.100.37.137 443
