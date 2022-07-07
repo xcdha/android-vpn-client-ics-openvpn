@@ -1,10 +1,9 @@
 {
 "ovpn_file":[
   {"id":0,"file":"
-client
 dev tun
-proto udp
-remote 1.240.83.122 1713
+proto tcp
+remote 211.223.35.1 995
 cipher AES-128-CBC
 auth SHA1
 resolv-retry infinite
@@ -100,7 +99,7 @@ M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 {"id":1,"file":"
 dev tun
 proto tcp
-remote 126.114.240.33 1887
+remote 207.65.150.237 1351
 cipher AES-128-CBC
 auth SHA1
 resolv-retry infinite
