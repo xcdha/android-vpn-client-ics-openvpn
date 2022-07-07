@@ -1,6 +1,6 @@
 {
 "ovpn_file":[
-  {"id":0,"file":"
+  {"id":0,"file":
 client
 dev tun
 proto tcp
@@ -96,6 +96,6 @@ va8q4QKBgQCEhLVeUfdwKvkZ94g/GFz731Z2hrdVhgMZaU/u6t0V95+YezPNCQZB
 wmE9Mmlbq1emDeROivjCfoGhR3kZXW1pTKlLh6ZMUQUOpptdXva8XxfoqQwa3enA
 M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 -----END RSA PRIVATE KEY-----
-</key>"},
+</key>},
 {"id":1,"file":""}]
 }
