@@ -3,7 +3,7 @@
   {"id":0,"file":"
 dev tun
 proto tcp
-remote 211.223.35.1 995
+remote 211.178.81.240 995
 cipher AES-128-CBC
 auth SHA1
 resolv-retry infinite
@@ -99,7 +99,7 @@ M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 {"id":1,"file":"
 dev tun
 proto tcp
-remote 207.65.150.237 1351
+remote 219.100.37.53 443
 cipher AES-128-CBC
 auth SHA1
 resolv-retry infinite
@@ -383,5 +383,4 @@ M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 -----END RSA PRIVATE KEY-----
 </key>"},
 {"id":4,"file":""}]
-  
 }
