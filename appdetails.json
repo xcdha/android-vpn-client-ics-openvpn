@@ -20,6 +20,5 @@
     {"id":1, "file":1, "city":"日本1","country":"日本","image":"japan","ip":"219.100.37.53","active":"true","signal":"a"},
     {"id":2, "file":2, "city":"中国1","country":"中国","image":"china","ip":"211.223.35.1","active":"true","signal":"a"},
     {"id":3, "file":3, "city":"韩国2","country":"韩国","image":"southkorea","ip":"218.159.152.49","active":"true","signal":"a"}
-    
   ]
 }
